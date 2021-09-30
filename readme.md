@@ -18,8 +18,8 @@ If you find this repository useful, please consider citing our paper:
 
 # Results
 We employ a widely used voltage stability margin approximator --- the smallest singular value (SSV) of the Jacobian matrix from running power flow algorithms as the benchmark method. (Code for benchmarking is not included.) The following results show that our models largely improve margin estimation error on 2 demonstrative power systems.
-![Table1](./fig/Result1.png){ width=50% }
-![Table2](./fig/Result2.png){ width=50% }
+![Table1](./fig/Result1.png =250x250)
+![Table2](./fig/Result2.png =250x250)
 
 # Requirements
 - Tensorflow == 1.14
